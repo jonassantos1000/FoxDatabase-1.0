@@ -1,0 +1,118 @@
+
+MTZDSKFS031017	Fri Mar 19 17:19:02 2021
+	Database: C:\SYS\BANCO\2009\CAPARAO\CAPARAO
+	Validation started
+
+
+MTZDSKFS031017	Fri Mar 19 17:20:09 2021
+	Database: C:\SYS\BANCO\2009\CAPARAO\CAPARAO
+	Validation finished: 0 errors, 0 warnings, 0 fixed
+
+
+MTZDSKFS031017	Fri Mar 19 17:20:16 2021
+	Database: C:\SYS\BANCO\2009\CAPARAO\CAPARAO
+	Validation started
+
+
+MTZDSKFS031017	Fri Mar 19 17:21:10 2021
+	Database: C:\SYS\BANCO\2009\CAPARAO\CAPARAO
+	Validation finished: 0 errors, 0 warnings, 0 fixed
+
+
+MTZDSKFS031017	Tue Apr 13 08:59:53 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Tue Apr 13 08:59:53 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Tue Apr 13 08:59:53 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Tue Apr 13 08:59:53 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Tue Apr 13 09:59:56 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Tue Apr 13 09:59:58 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Tue Apr 13 09:59:58 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Tue Apr 13 09:59:58 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Wed Apr 28 15:56:30 2021
+	Database: C:\SYS\BANCO\5\SALDAO\MILLENNIUM
+	internal Firebird consistency check (cannot find record back version (291), file: dpm.cpp line: 1376)
+
+
+MTZDSKFS031017	Wed Apr 28 15:56:31 2021
+	I/O error during "ReadFile" operation for file "C:\SYS\BANCO\5\SALDAO\MILLENNIUM"
+	Error while trying to read from file
+	Identificador inválido. 
+
+
+MTZDSKFS031017	Wed Apr 28 15:56:31 2021
+	Database: C:\SYS\BANCO\5\SALDAO\MILLENNIUM
+	I/O error during "ReadFile" operation for file "C:\SYS\BANCO\5\SALDAO\MILLENNIUM"
+	Error while trying to read from file
+	Identificador inválido. 
+
+
+MTZDSKFS031017	Wed Apr 28 16:33:18 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Wed Apr 28 16:33:18 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Wed Apr 28 16:33:18 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Wed Apr 28 16:33:18 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Wed May 12 13:45:15 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Wed May 12 13:45:17 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
+
+MTZDSKFS031017	Wed May 12 13:45:17 2021
+	Operating system call utime failed. Error code 5
+
+
+MTZDSKFS031017	Wed May 12 13:45:17 2021
+	touchFile
+	operating system directive utime failed
+	Acesso negado. 
+
